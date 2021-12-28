@@ -1,4 +1,4 @@
-#This is a fork of the real Fosite project.
+# This is a fork of the real Fosite project.
 im just using this fork to test things
 
 <h1 align="center"><img src="./docs/image/banner_fosite.png" alt="ORY Fosite - Security-first OAuth2 framework"></h1>
